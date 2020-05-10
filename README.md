@@ -76,6 +76,11 @@ The sensor breakout needs to be carefully waterproofed, and the cable passthroug
 
 ![image](images/obliqueView.jpeg)
 
+## Gratitude
+
+- The [Cave Pearl Project](https://thecavepearlproject.org/) has been an invaluable source of inspiration and information
+- Sparkfun and Adafruit, for their libraries. If you can, buy parts from them!
+
 
 
 
