@@ -49,7 +49,7 @@ To avoid the headaches of custom waterproof enclosures, the project used an old 
 ![image](images/housingPrep.jpeg)
 
 ##### Sensor Preparation
-If ordered directly, the sensor will come as-is and the pins needs to broken out, and wires attached. This was done with a generic SOP16 breakout, although something smaller would be ideal. A decoupling cap was also added onto the board.
+If ordered directly, the sensor will come as-is and the pins need to broken out, and wires attached. This was done with a generic SOP16 breakout, although something smaller would be ideal. A decoupling cap was also added onto the board.
 
 ![image](images/sensorBreakout.jpeg)
 
